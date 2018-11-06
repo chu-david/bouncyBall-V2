@@ -10,7 +10,7 @@ $(document).ready(function() {
 	
 	var initialBallSize= 20;
 	var balls = [];
-	var noOfBalls = 50;
+	var noOfBalls = 10;
 	var interval;
 	var momentumCoefficient = 1;
 	
